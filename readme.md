@@ -8,4 +8,4 @@ I'm looking to deepen my C# and Azure knowledge and grow more into getting profi
 
 - ✨ Pronouns: she/her
 - 💬 Ask me about Star Wars (please don't, I won't stop talking about it otherwise... 😏)
-- 📫 How to reach me: Mail to `dev[at]lauka[dot]space`
+- 📫 How to reach me: Mail or Twitter, see my GitHub profile

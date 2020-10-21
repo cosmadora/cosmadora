@@ -1,8 +1,10 @@
 ![Header](static/header.png)
+___
+
 
 ### Hello there! 😉
 
-I'm a german Network Engineer and hobby Developer!
+Hi I'm Laura, a german Network Engineer and hobby Developer!
 
 I'm looking to deepen my C# and Azure knowledge and grow more into getting proficient with Infrastructure and Network as Code.
 

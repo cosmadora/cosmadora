@@ -10,4 +10,4 @@ I'm looking to deepen my C# and Azure knowledge and grow more into getting profi
 
 - ✨ Pronouns: she/her
 - 💬 Ask me anything about Star Wars 😜 (please don't, I won't stop talking about it otherwise... 😏)
-- 📫 How to reach me: Mail or Twitter, see my GitHub profile
+- 📫 How to reach me: Please use the contact information on my GitHub profile :)

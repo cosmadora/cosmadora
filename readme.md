@@ -1,12 +1,8 @@
-![Unicorn with rainbow colored hair](static/header.png)
-___
-
-
 ### Hello there! 😉
 
-**IMPORTANT!**  I've moved away from Github and my projects are now at https://codeberg.org/lauralani and https://git.lauka.net/lauralani. See https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/ for the reasons as to why I left GitHub.
+**IMPORTANT!**  I've moved away from Github and my projects are now at https://codeberg.org/lauralani and https://code.lila.network/adoralaura. See https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/ for the reasons as to why I left GitHub.
 
-Hi I'm Laura, a german Network Engineer and Developer!
+Hi I'm Adora, a german Network Security Engineer and Developer!
 
 I'm looking to deepen my C# and Azure knowledge and grow more into getting proficient with Infrastructure and Network as Code.
 
